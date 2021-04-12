@@ -9,8 +9,17 @@
   .game-display {
     height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+  }
+  .game-display > h1 {
+    margin-bottom: 30px;
+    font-size: 35px;
+  }
+  .game-display > p {
+    margin-bottom: 30px;
+    
   }
   .game-board {
     /* position: absolute; */
