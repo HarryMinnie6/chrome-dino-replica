@@ -160,7 +160,7 @@ function spawnObstacle() {
     canvas.height - size,
     size,
     size,
-     
+    "rgb(64,169,243)"
   );
 
   obstacles.push(obstacle);
