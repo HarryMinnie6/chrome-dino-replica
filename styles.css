@@ -12,20 +12,21 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #88c2a1;
   }
   .game-display > h1 {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     font-size: 35px;
   }
   .game-display > p {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     
   }
   .game-board {
     /* position: absolute; */
-    border: 1px solid black;
+    border: 1px solid #334139;
     border-radius: 5px;
-    background-color: #363c41;
-    box-shadow: 0 0 10px;
+    background-color: #4a5a51;
+    box-shadow: 0 0 10px #334139;
   }
   
